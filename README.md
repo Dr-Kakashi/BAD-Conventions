@@ -18,16 +18,16 @@ Things you can tell your partner about their freshest card:
 
 Color clues:
 Red & Yellow: 
-- Slot 1 is immediately playable
+* Slot 1 is immediately playable
 Blue & White: 
-- Slot 1 is Trash
+* Slot 1 is Trash
 Green: 
-- Slot 1 should be saved
+* Slot 1 should be saved
 
 Rank clues that touch slot 1:
 Rank 1
-- Play all cards touched by 1, unless told otherwise
+* Play all cards touched by 1, unless told otherwise
 Rank 2
-- Follows normal play clues and isn't a save. 
+* Follows normal play clues and isn't a save. 
 Rank 3, 4, 5
-- Should be treated as a save 
+* Should be treated as a save 
