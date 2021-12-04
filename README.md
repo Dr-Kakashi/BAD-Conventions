@@ -26,7 +26,7 @@ Blue & White:
 Green: 
 * Slot 1 should be saved
 
-Rank clues that touch slot 1:
+Rank clues that touch chop:
 
 - Rank 1
   - Play all cards touched by 1, unless told otherwise
