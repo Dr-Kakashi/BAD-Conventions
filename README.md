@@ -28,11 +28,11 @@ Green:
 
 Rank clues that touch slot 1:
 
-Rank 1
-* Play all cards touched by 1, unless told otherwise
+- Rank 1
+  - Play all cards touched by 1, unless told otherwise
 
-Rank 2
-* Follows normal play clues and isn't a save. 
+- Rank 2
+  - Follows normal play clues and isn't a save. 
 
-Rank 3, 4, 5
-* Should be treated as a save 
+- Rank 3, 4, 5
+  - Should be treated as a save 
